@@ -1,0 +1,8 @@
+#!/bin/sh
+
+ln -s .bashrc ~/.bashrc
+ln -s .communism ~/.communism
+ln -s .zshrc ~/.zshrc
+source ~/.zshrc
+source ~/.bashrc
+
